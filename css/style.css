@@ -1,7 +1,22 @@
+.nike-header-style{
+   background-color:#FFF9F4;
+}
+
 .nike-shoes-background{
     background-color: #F1F1F1;
 }
 
 .nike-shoes-color{
     color: #363958;
+}
+
+.nike-button-style{
+    border: none;
+    padding: 5px 25px;
+    background-color: #3746CB;
+    text-transform: uppercase;
+    color: white;
+    
+
+
 }
