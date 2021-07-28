@@ -16,7 +16,10 @@
     background-color: #3746CB;
     text-transform: uppercase;
     color: white;
-    
+}
 
-
+.nike-social-icon a,i{
+    border: none;
+    color: lightblue;
+    padding: 3px;
 }
